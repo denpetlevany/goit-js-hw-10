@@ -18,3 +18,15 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+img {
+  width: 50px;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding-left: 0;
+}
